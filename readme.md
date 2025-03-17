@@ -1,5 +1,3 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-
 <h1 align="center">Hi 👋, I'm Shams E Tibriz</h1>
 <h3 align="center">Computer Science Student at UBC | Passionate about AI, Full-Stack Development, and DevOps</h3>
 
