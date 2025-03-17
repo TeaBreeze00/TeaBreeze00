@@ -21,26 +21,28 @@
 
 ---
 
-### 🛠 Languages & Tools:
-<p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> </a> 
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/> </a> 
-</p>
+### Languages
 
----
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
-### 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codehacker7&theme=tokyonight" alt="GitHub Streak" />
-</p>
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
+
