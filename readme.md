@@ -43,10 +43,10 @@
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/TeaBreeze00/SectionsInsightUBC)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/TeaBreeze00/ImmigrationEase)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/TeaBreeze00/Quiz_Game)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/TeaBreeze00/miniGPT)
+[![](https://img.shields.io/badge/-🧬%20UBC%20Insights-000)](https://github.com/TeaBreeze00/SectionsInsightUBC)
+[![](https://img.shields.io/badge/-🦠%20Immigration%20App-000)](https://github.com/TeaBreeze00/ImmigrationEase)
+[![](https://img.shields.io/badge/-📝%20Trivia%20Game-000)](https://github.com/TeaBreeze00/Quiz_Game)
+[![](https://img.shields.io/badge/-🔬%20miniGPT-000)](https://github.com/TeaBreeze00/miniGPT)
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=TeaBreeze00&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeaBreeze00&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
