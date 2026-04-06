@@ -79,10 +79,14 @@ $ git log --oneline
 ```
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TeaBreeze00&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TeaBreeze00&hide_border=true&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TeaBreeze00&theme=github_dark" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeaBreeze00&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TeaBreeze00&theme=github_dark" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TeaBreeze00&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img width="700" src="https://streak-stats.demolab.com?user=TeaBreeze00&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
 </div>
